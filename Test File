@@ -1,0 +1,4 @@
+import random
+
+names = (John, Emily, Shaun)
+print(random.choices(names))
